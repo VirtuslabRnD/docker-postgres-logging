@@ -7,12 +7,12 @@ Note that versions are available as branches.
 
 The following versions are available:
 
-* 9.1
-* 9.2
-* 9.3
-* 9.4
-* 9.5
-* 9.6
-* 10.0
-* 10.3
 * 10.4
+* 10.3
+* 10.0
+* 9.6
+* 9.5
+* 9.4
+* 9.3
+* 9.2
+* 9.1
