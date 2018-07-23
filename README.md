@@ -9,6 +9,8 @@ The following versions are available:
 
 * 10.4
 * 10.3
+* 10.2
+* 10.1
 * 10.0
 * 9.6
 * 9.5
