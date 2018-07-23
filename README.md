@@ -15,3 +15,4 @@ The following versions are available:
 * 9.6
 * 10.0
 * 10.3
+* 10.4
