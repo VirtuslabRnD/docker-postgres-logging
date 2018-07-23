@@ -1,4 +1,4 @@
-# postgres-log
+# postgres-logging
 Postgresql docker container which logs queries to stdout
 
 ## Versions
