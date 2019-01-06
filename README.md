@@ -7,6 +7,7 @@ Note that versions are available as branches.
 
 The following versions are available:
 
+* 10.5
 * 10.4
 * 10.3
 * 10.2
