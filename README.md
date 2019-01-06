@@ -1,5 +1,23 @@
 # postgres-logging
-Postgresql docker container which logs queries to stdout
+Postgresql docker container which logs queries to stdout.
+
+This project extends from the regular postgres images.
+
+## Running
+
+Run the development postgres container by executing the following command. This will use the latest postgres version.
+
+```bash
+docker run -p 127.0.0.1:5432:5432 --name postgres-logging timms/postgres-logging
+```
+
+You might want to run a specific version for your project's needs by defining a tag. The versions defined below are available as docker tags.
+
+```bash
+docker run -p 127.0.0.1:5432:5432 --name postgres-logging timms/postgres-logging:10.4
+```
+
+*note: In case you run docker-machine, bind to 0.0.0.0 instead of localhost*
 
 ## Versions
 Note that versions are available as branches.
