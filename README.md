@@ -25,6 +25,7 @@ Note that versions are available as branches.
 
 The following versions are available:
 
+* 11.5
 * 11.1
 * 11.0
 * 10.6
