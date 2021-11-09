@@ -14,7 +14,7 @@ docker run -p 127.0.0.1:5432:5432 --name postgres-logging timms/postgres-logging
 You might want to run a specific version for your project's needs by defining a tag. The versions defined below are available as docker tags.
 
 ```bash
-docker run -p 127.0.0.1:5432:5432 --name postgres-logging timms/postgres-logging:12.0
+docker run -p 127.0.0.1:5432:5432 --name postgres-logging timms/postgres-logging:13.4
 ```
 
 *note: In case you run docker-machine, bind to 0.0.0.0 instead of localhost*
@@ -25,6 +25,7 @@ Note that versions are available as branches.
 
 The following versions are available:
 
+* 13.4
 * 12.0
 * 11.5
 * 11.1
