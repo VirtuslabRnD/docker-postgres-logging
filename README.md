@@ -25,6 +25,7 @@ Note that versions are available as branches.
 
 The following versions are available:
 
+* 15.1
 * 15.0
 * 14.0
 * 13.4
