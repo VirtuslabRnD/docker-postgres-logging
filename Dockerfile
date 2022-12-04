@@ -1,2 +1,2 @@
-FROM postgres:14.0
+FROM postgres:15.0
 ADD config.sh /docker-entrypoint-initdb.d/
